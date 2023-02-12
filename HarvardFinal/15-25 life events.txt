@@ -1,0 +1,132 @@
+@s1 Your neighbors son Henurie asked you to go frog hunting.
+@p Ew no not with that loser!
+1
+0
+5
+5
+0
+@p Sure whats the worst that can happen?
+2
+-5
+-10
+-5
+0
+@r 1 Good thinking! You ignore the weirdo and come up with an excuse. Though perhaps now you have awakened Henuries new villain arc.
+@r 2 As you walked down to the river with Henurie, you ended up finding a big stick. Trying to pick it up, you managed to get a splinter the size of a chopstick. Ouch! Now thats gotta hurt.
+@s2 You find a flower on the side of the road.
+@p Such a pretty flower! I will show it to my mom.
+1
+-3
+-10
+-5
+0
+@p It is just a flower no big deal
+2
+0
+10
+7
+10
+@r 1 You show your mom the flower and she is very disappointed in you. Whoops, you forgot that she was a plant life activist. She tells you to go to your room as snot drips out of your nose.
+@r 2 As you walk away from the flower two guys come up to you with a camera in your face. They explain to you that they were doing an experiment to see whether or not someone would pick up the flower. They give you some cash afterward.
+@s3 Your parents recommend you go outside for once.
+@p You politely decline.
+0
+0
+0
+0
+0
+@p You roll your eyes and go outside.
+2
+10
+10
+2
+1
+@r 2 It was a beautiful feeling when you dipped a toe into the grass. Feeling yourself getting replenished, you quickly go back inside the house to be greeted with one dollar. Great! You got paid for going outside. This will probably be the last time you go outside, however.
+@s4 Your parents ask you who you like more.
+@p You respond with your mom.
+1
+0 
+-5
+-5
+10
+@p You respond with your dad.
+2
+-2
+-10
+0
+10
+@r 1 Congrats, your mom bought you snacks for the next week. However, now your dad is giving you an attitude and refuses to help you with math homework. Honestly, you shouldve just said you liked them equally.
+@r 2 Congrats, your dad is treating you great for the next week. However, now your mom is giving you the cold shoulder and taking away your electronics. Honestly, you shouldve just said you liked them equally.
+@s4 You find a toad.
+@p Kiss it!
+1
+-5
+-10
+-5
+0
+@p Toss it!
+2
+0
+8
+5
+20
+@r 1 Ew! Why would you kiss a toad. . .Not only did you end up feeling stupid you also got caught by the popular kids at school. This is the worst!
+@r 2 You toss the frog with all your pent-up frustration. As you walk away someone pulls on your shirt and thanks you for returning their lost pet toad. They pay you as thanks.
+@s5 Use the restroom at 5 AM.
+@p No thanks.
+0
+-10
+0
+0
+0
+@p Yeah sure.
+2
+0
+-10
+-5
+0
+@r 2 In your tired state you go use the restroom only to be shocked with no toilet paper. This is the worst.
+@s6 Your mom asks you to help with dinner.
+@p Sure, I will help.
+1
+0
+15
+3
+30
+@p I am okay.
+2
+0
+-10
+0
+0
+@r 1 You help with dinner and your mom is proud of you. She gifts you some money.
+@r 2 If you are not going to help then starve. Your mom does not feed you and throws a sandal at you.
+@s7 You come across a wishing well.
+@p You toss a $20 inside.
+1
+0
+-10
+0
+-20
+@p You walk away.
+2
+-5
+5
+5
+100
+@r 1 Did you seriously think the wishing well would give you something? Move along.
+@r 2 You walk away due to your outrageously empty wallet. However, you come across a squirrel who slaps you across the face. In the process, he drops a suitcase filled with money. Kachow! You are rich now!
+@s8 You find fireworks.
+@p Walk away.
+0
+0
+0
+0
+0
+@p Light them up!
+2
+0
+10
+0
+0
+@r 2 You admire the glimmering fireworks in peace.

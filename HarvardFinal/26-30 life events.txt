@@ -1,0 +1,88 @@
+@s1 As you are walking home, a random person tries mugging you and asks for your wallet. What will you do?
+@p Give him your wallet I do not want to die!
+1
+0
+-15
+0
+-1000
+@p Fight him!!
+2
+-10
+-10
+-5
+0
+@r 1 You quickly hand your wallet over with lots of cash inside and run away in fear. At least you lived. . . but with no wallet.
+@r 2 You try attacking the person and you go at it. You get beat badly but at least you kept your money.
+@s2 You decided to go to the beach and chill out a bit. However, as you went to grab your sunscreen, you realize it is missing. What will you do?!?
+@p YOLO who needs sunscreen anyways
+1
+-10
+-10
+-3
+0
+@p I am going to the store to buy sunscreen.
+2
++10
++10
+0
+-10
+@r 1 You decide to not get sunscreen as sunscreen is for the weak. However, when you come home, you are burnt and your skin is peeling :(
+@r 2 You go to the store and buy sunscreen and enjoy a nice, skin cancer-free, day.
+@s3 You are sad one day so you decide to watch a TV show. What will you watch?
+@p BitLife tragedies
+1
+0
+-10
+0
+0
+@p The Good Place
+2
+0
+15
+0
+0
+@r 1 You decide to watch a show called BitLife tragedies which just makes you sadder.
+@r 2 You watch The Good Place and laugh along to the funny scenes and plot twists.
+@s4 You are having nightmares about failing your Intro to C++ course you are taking. What should you do?
+@p Nothing and continue worrying.
+0
+-5
+-5
+0
+0
+@p Take a nap and hope that helps.
+2
+10
+0
+0
+0
+@r 2 You take a nap and you realize you feel less panicked than before. Let us hope this rings true in real life.
+@s5 You go to Paris to live out your oui oui baguette dreams. What should you do first?
+@p Go to the Eiffel Tower!
+1
+0
+-15
+0
+-50
+@p Go to a local restaurant
+2
+5
+10
+0
+-10
+@r 1 You head over to the Eiffel Tower but on the way there you get pickpocketed:(
+@r 2 You have a nice meal at the restaurant and enjoy a nice croissant!
+@s6 You were walking when some kid trips on you and starts crying. What do you do?
+@p Ignore and walk away.
+0
+0
+0
+0
+0
+@p Help the kid!
+2
+0
+3
+3
+5
+@r 2 You decide to help the kid and in gratitude, they gave you their money before scurrying off.

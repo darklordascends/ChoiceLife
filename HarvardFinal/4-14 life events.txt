@@ -1,0 +1,129 @@
+@s1 Your parents decide to get you a crazy pet rabbit with eyes that you swear look human. Do you want to keep it?
+@p Absolutely not!
+0
+0
+0
+0
+10
+@p Yes!
+2
+-15
+-12
+0
+0
+@r 2 You decide to keep the pet rabbit! However, one day as you tried playing with it, the rabbit started saying incantations and it karate chopped you in the face:(
+@s2 You are playing around one day when you see some cash on the floor. What do you do?
+@p Leave it.
+0
+0
+0
+0
+0
+@p Take it!
+2
+0
+10
+5
+20
+@r 2 You decide to take the money! You show it to your parents and they give you some candy!
+@s3 You asked your mom for her phone to play the smash hit Among Us. How long should you play?
+@p 30 minutes
+1
+10
+5
+0
+0
+@p 5 hours
+2
+-10
+10
+-10
+0
+@r 1 You play for 30 minutes and have a great time!
+@r 2 You played for 5 hours and after a while felt mildly sick after being an imposter so many times. But at least you had fun!
+@s4 Your friend wants to go watch the smash hit movie Minions rise of Gru with you. What shall you do?
+@p No.
+0
+0
+0
+0
+0
+@p Let us watch it!
+2
+2
+5
+0
+0
+@r 2 You watched the movie with friends!
+@s5 You slapped a classmate because they stole your colored pencil. You get sent to the office to meet with the principal and your parents. What will you do?
+@p Go on your knees and beg for forgiveness!
+1
+0
+3
+3
+0
+@p Beat the kid up for snitching on you.
+2
+3
+3
+-3
+0
+@r 1 The principal and your parents forgive you but you still hold on to that grudge . . . 
+@r 2 After the meeting, you beat the kid up again and threatened them into silence. That kid is kinda scared at you forever now. Yikes. . .
+@s6 While going on a walk you see a creepy old man telling you to come to him. . . What will you do?
+@p Stranger Danger! Run!
+0
+0
+-5
+0
+0
+@p He seems like a totally nice and normal person. I will talk to him.
+2
+-10
+-15
+20
+10
+@r 2 You approach the old man sitting on the upside-down trash can and he suddenly starts screaming random garbled noises at you. Suddenly a light appears around you that blinds you. As you regain your senses you feel nauseous and weirded out but for some reason smarter?? The old man disappeared and you continued on with your day a bit creeped out.
+@s7 Your parents want to take you to tutoring after school to help up your grades a bit. What will you do?
+@p You will agree!
+1
+0
+10
+15
+50
+@p Scream and kick begging not to go!
+2
+-3
+-10
+0
+0
+@r 1 Your parents are so happy that you agreed without a fight and rewarded you with MONEYY!!
+@r 2 You screamed and kicked to not go, scared you will lose your free time. Your parents yell at you and you get grounded :(
+@s8 You go to the arcade and your parents want you to go inside the claw machine to grab all the plushies. Will you do it?
+@p NO WAY!
+0
+0
+0
+0
+0
+@p YES! FREE PLUSHIESS!
+2
+-3
+15
+3
+50
+@r 2 You crawl into the claw machine and grab 50 plushies without being caught! You and your parents run away and sell the toys on eBay and they give you some of the money earned!
+@s9 You walk home from school when on the way you notice a wallet sitting on the sidewalk. What should you do?
+@p leave it alone
+0
+0
+0
+0
+0
+@p STEAL IT!! 
+2
+0
+15
+5
+40
+@r 2 You steal the money and go on with your day with some extra casshhh.

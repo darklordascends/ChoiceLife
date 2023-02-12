@@ -1,0 +1,36 @@
+@s You practiced standing up in your crib.
+5
+0
+10
+@s You cried and screamed because you felt like it.
+-3
+0
+0
+@s You fell out of your crib and cried for your parents to save you.
+-5
+-3
+0
+@s You put together a 100-piece puzzle. Is this your genius era?!
+0
+3
+15
+@s I become a pro at fake crying to get what I want.
+0
+5
+5
+@s My parents brought me to Japan!
+0
+10
+0
+@s You danced to Gangnam style inside your crib
+3
+5
+3
+@s My parents bought me a new pacifier
+0
+5
+0
+@s You pooped your pants and stunk up the whole house
+-2
+-5
+-5
